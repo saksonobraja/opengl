@@ -1,0 +1,1 @@
+OpenGl.d: ../OpenGl.cpp
